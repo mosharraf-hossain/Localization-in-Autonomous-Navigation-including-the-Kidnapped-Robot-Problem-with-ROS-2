@@ -2,7 +2,7 @@
 <img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/turtlebot3/logo_turtlebot3.png" width="300">
 
 ## Documentation
-- [Localization-in-Autonomous-Navigation-including-the-Kidnapped-Robot-Problem-with-ROS-2.pdf]
+- [Localization-in-Autonomous-Navigation-including-the-Kidnapped-Robot-Problem-with-ROS-2.pdf] https://github.com/mosharraf-hossain/Localization-in-Autonomous-Navigation-including-the-Kidnapped-Robot-Problem-with-ROS-2/blob/main/Final%20Report%20AIS%20LOC-5_HAS_HOS.pdf
 
 ## ROBOTIS e-Manual for TurtleBot3
 - [ROBOTIS e-Manual for TurtleBot3](http://turtlebot3.robotis.com/)
