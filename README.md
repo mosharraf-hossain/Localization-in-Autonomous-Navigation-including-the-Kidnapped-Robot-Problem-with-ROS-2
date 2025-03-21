@@ -1,16 +1,8 @@
-# ROS-Robotic-Localization-and-Kidnapped-Robot-Problem
+# Localization-in-Autonomous-Navigation-including-the-Kidnapped-Robot-Problem-with-ROS-2
 <img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/turtlebot3/logo_turtlebot3.png" width="300">
 
 ## Documentation
-- [ROS_Robotic, Localization and Kidnapped Robot .pdf](https://github.com/gauravhm96/ROS-Robotic-Localization-and-Kidnapped-Robot-Problem/blob/165c3b4a69519aeabc2a08a8213c07b9369ae7e2/ROS_Robotic,%20Localization%20and%20Kidnapped%20Robot%20.pdf)
-
-## Linux Machine Configuration File(Master Device)
-
-- [Linux Machine - REMOTEPC]()
-
-## RaspberryPi Configuration Files (Node/Slave Device)
-
-- [Raspberry Pi - Node]()
+- [Localization-in-Autonomous-Navigation-including-the-Kidnapped-Robot-Problem-with-ROS-2.pdf]
 
 ## ROBOTIS e-Manual for TurtleBot3
 - [ROBOTIS e-Manual for TurtleBot3](http://turtlebot3.robotis.com/)
